@@ -5,4 +5,4 @@ Ensure that Python, Flask, SQLAlchemy, Spacy and ChatterBot are installed (eithe
 
 Run app.py with "python app.py."
 
-The demo will be live at http://localhost:5000/
+The application will be live at http://localhost:5000/
